@@ -1,6 +1,6 @@
 module.exports = {
     exportTrailingSlash: true,
-    assetPrefix: 'test-task-react-typescript-nextjs',
+    assetPrefix: 'files',
     exportPathMap: function() {
       return {
         '/': { page: '' }
